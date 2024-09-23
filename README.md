@@ -3,6 +3,8 @@ Design website for Sri Lanka hotel  using HTML &amp; CSS technologies
 
 Hotel Website ⭐ Star me on this Repo!
 
+**Click Here** - https://saziranasinghe.github.io/tutorial-hotel-website/
+
 Features: Responsive Valid HTML & CSS Animations Easy to modify
 
 Sections in website : ✔️ Header & Slider ✔️ Destination ✔️ New Experience ✔️ Offers ✔️ Footer
